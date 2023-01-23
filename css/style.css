@@ -19,21 +19,21 @@
     height: 50px;
     width: 240px;
     background-color: #daa520;
-    border: 2px dashed black;
+    border: 1px dashed black;
 }
 
 .link{
     width: 720px;
     height: 50px;
     background-color: #daa520;
-    border: 2px dashed black;
+    border: 1px dashed black;
 }
 
 .logo{
     height: 50px;
     width: 240px;
     background-color: #daa520;
-    border: 2px dashed black;
+    border: 1px dashed black;
 }
 
 .header-bottom{
@@ -47,5 +47,29 @@
     height: 400px;
     width: 910px;
     margin: 50px auto;
-    border: 2px dashed black;
+    border: 1px dashed black;
+}
+
+.box-small{
+    width: 40%;
+    height: 400px;
+    background-color: #ffc0cb;
+    border: 1px dashed black;
+}
+
+.box-big{
+    width: 60%;
+    height: 400px;
+    background-color: #1e90ff;
+    border: 1px dashed black;
+}
+
+.container{
+    display: flex;
+    height: 600px;
+    align-items: center;
+}
+
+.even{
+    background-color: #d3d3d3;
 }
