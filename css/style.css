@@ -3,3 +3,49 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+
+
+.header-top{
+    background-color: #add8e6;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+}
+
+
+.login{
+    height: 50px;
+    width: 240px;
+    background-color: #daa520;
+    border: 2px dashed black;
+}
+
+.link{
+    width: 720px;
+    height: 50px;
+    background-color: #daa520;
+    border: 2px dashed black;
+}
+
+.logo{
+    height: 50px;
+    width: 240px;
+    background-color: #daa520;
+    border: 2px dashed black;
+}
+
+.header-bottom{
+    background-color: #00008b;
+    display: flex;
+    height: 500px;
+}
+
+.box{
+    background-color: #ee82ee;
+    height: 400px;
+    width: 910px;
+    margin: 50px auto;
+    border: 2px dashed black;
+}
