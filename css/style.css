@@ -68,8 +68,28 @@
     display: flex;
     height: 600px;
     align-items: center;
+    justify-content: center;
+}
+
+.boxes{
+    width: 80%;
+    display: flex;
 }
 
 .even{
     background-color: #d3d3d3;
+}
+
+.big-container{
+    background-color: #d3d3d3;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.green-box{
+    height: 900px;
+    width: 80%;
+    background-color: #228b22;
 }
