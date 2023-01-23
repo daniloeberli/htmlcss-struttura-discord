@@ -93,3 +93,53 @@
     width: 80%;
     background-color: #228b22;
 }
+
+footer{
+    background-color: #23272a;
+}
+
+.foot-top{
+    width: 80%;
+    display: flex;
+    margin: 0 auto;
+}
+
+.big-box{
+    height: 400px;
+    background-color: #f08080;
+    width: 65%;
+    border: 1px dashed black;
+}
+
+.small-box{
+    height: 400px;
+    background-color: #20b2aa;
+    width: 35%;
+    border: 1px dashed white;
+}
+
+.foot-bottom{
+    height: 50px;
+    background-color: #7fffd4;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 30px;
+    display: flex;
+}
+
+.loghino{
+    height: 15px;
+    width: 50px;
+    background-color: #ffb6c1;
+    align-self: center;
+    display: flex;
+}
+
+.bottone{
+    height: 15px;
+    width: 50px;
+    background-color: #ffb6c1;
+    justify-content: flex-end;
+    align-self: center;
+    display: flex;
+}
